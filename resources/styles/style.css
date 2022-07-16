@@ -288,3 +288,14 @@ body {
   margin: 10px auto;
   width: 800px;
 }
+.pg {
+  padding: 4px;
+  background:rgb(241, 135, 22);
+  display: inline-block;
+  border-radius: 10px;
+  color: #fff;
+  page-break-before: auto;
+  text-align: right;
+  text-align-last: right;
+  align-self: right;
+}
