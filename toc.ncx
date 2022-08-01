@@ -38,6 +38,7 @@
                 <text>Unidade temática – Esportes</text>
             </navLabel>
             <content src="part2-1-esportes.html" />
+        </navPoint>
         <navPoint class="chapter" id="chapter4" playOrder="4">
             <navLabel>
                 <text>Unidade temática – Ginásticas</text>
