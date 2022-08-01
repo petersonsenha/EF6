@@ -135,6 +135,7 @@ body {
 }
 .calibre1 {
   display: block;
+  color: black;
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
@@ -298,4 +299,15 @@ body {
   text-align: right;
   text-align-last: right;
   align-self: right;
+}
+li {
+  color: #7e432d;
+  list-style-type: "•";
+  margin-left: 2em;
+}
+.interacao{
+  /*background-color: dimgray;*/
+}
+.interacao:hover {
+  opacity: 0.2;
 }
